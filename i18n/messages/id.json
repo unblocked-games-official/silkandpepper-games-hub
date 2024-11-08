@@ -1,0 +1,91 @@
+{
+  "Home": {
+    "slogan": {
+      "full": "Temukan Produk dan Startup Terbaru secara Visual",
+      "visual": "Secara Visual",
+      "discover": "Temukan Terbaru",
+      "productsandstartups": "Produk dan Startup"
+    },
+    "description": "Jelajahi produk dan startup melalui snapshot visual",
+    "login": "Masuk",
+    "search": "Cari Produk...",
+    "just-launched": "Baru Diluncurkan",
+    "favorites": "Favorit Saya",
+    "signout": "Keluar",
+    "categories": "Kategori",
+    "subscribe": {
+      "receive": "Terima Pembaruan Harian",
+      "unsubscribe": "Berhenti Berlangganan",
+      "subscribed": "Berlangganan",
+      "subscribedToUpdates": "Berlangganan Pembaruan",
+      "unsubscribeConfirm": "Apakah Anda yakin ingin berhenti berlangganan pembaruan kami?",
+      "success": "Berhasil Berlangganan",
+      "failed": "Gagal Berlangganan",
+      "subscribeDescription": "Anda akan menerima pembaruan email harian.",
+      "unsubscribeSuccess": "Berhasil Berhenti Berlangganan",
+      "unsubscribeFailed": "Gagal Berhenti Berlangganan",
+      "unsubscribeDescription": "Anda tidak akan lagi menerima pembaruan kami.",
+      "error": "Terjadi kesalahan saat mencoba berlangganan. Silakan coba lagi.",
+      "cancel": "Batal",
+      "unsubscribing": "Sedang berhenti berlangganan..."
+    },
+    "view-more": "Lihat Lebih Banyak"
+  },
+  "Showcase": {
+    "Alternatives": "Alternatif {name}",
+    "WeeklyTop": "10 Produk Teratas Mingguan",
+    "MoreAbout": "Lebih Lanjut Tentang {name}",
+    "VisitWebsite": "Kunjungi Situs Web",
+    "AllCategories": "Semua Kategori",
+    "Home": "Beranda"
+  },
+  "Catalog": {
+    "YC": {
+      "LaunchTime": "Waktu Peluncuran",
+      "TeamSize": "Ukuran Tim",
+      "Public": "Publik",
+      "Acquired": "Diakuisisi",
+      "All": "Semua"
+    },
+    "ProductHunt": {
+      "SortByTime": "Urutkan berdasarkan Waktu",
+      "SortByVotes": "Urutkan berdasarkan Suara",
+      "All": "Semua",
+      "DesignTools": "Alat Desain",
+      "ArtificialIntelligence": "Kecerdasan Buatan",
+      "OpenSource": "Sumber Terbuka",
+      "DeveloperTools": "Alat Pengembang",
+      "SaaS": "SaaS"
+    }
+  },
+  "Search": {
+    "NoResults": "Tidak ada hasil ditemukan.",
+    "TryDifferentKeywords": "Coba cari dengan kata kunci yang berbeda.",
+    "SearchResultsFor": "Hasil Pencarian untuk {query}"
+  },
+  "Categories": {
+    "JustLaunched": {
+      "suffix": "produk teknologi diluncurkan",
+      "prefix": "Dalam seminggu terakhir",
+      "full": "Produk teknologi yang diluncurkan dalam seminggu terakhir"
+    },
+    "Topic": {
+      "relatedProducts": "Produk terkait {topic}"
+    },
+    "LatestProducts": {
+      "prefix": "Produk",
+      "suffix": "terbaru",
+      "full": "Produk {category} terbaru"
+    },
+    "TotalProducts": "{count} Produk",
+    "ProductCount": "produk",
+    "PageInfo": "Halaman {current} dari {total}",
+    "PreviousPage": "Halaman Sebelumnya",
+    "NextPage": "Halaman Berikutnya",
+    "NoProducts": {
+      "title": "Tidak ada produk ditemukan",
+      "description": "Maaf, kami tidak dapat menemukan produk apa pun dalam kategori ini saat ini.",
+      "backToHome": "Kembali ke Beranda"
+    }
+  }
+}
